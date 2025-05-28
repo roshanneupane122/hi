@@ -3,3 +3,5 @@ fixed another fixes
 one more bug fixed
 thired bug fixed 
 bug fixed
+third bug fixed
+fouth bug fixed
